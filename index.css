@@ -1,0 +1,15 @@
+body{
+  background-color: black;
+}
+
+h1{
+   color: orangered; 
+   font-family: sans-serif;
+   text-align: center;
+}
+
+p{
+  color: orange;
+  font-family: sans-serif;
+  text-align: center;
+}
