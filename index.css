@@ -40,3 +40,25 @@ h2{
     margin-right: auto;
     width: 20%;
 }
+
+a{
+    display: block;
+    text-align: center;
+    color:rgb(255, 94, 0)
+}
+
+a:link{
+    color:orangered;
+}
+
+a:visited{
+    color: rgb(179, 45, 0);
+}
+
+a:hover{
+    color: rgb(179, 45, 0);
+}
+
+a:active{
+    color: red;
+}
