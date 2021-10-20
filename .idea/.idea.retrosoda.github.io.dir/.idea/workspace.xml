@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7319640c-29c6-4f50-af9f-e59e0f76dbd3" name="Changes" comment="added better newsletter page">
+    <list default="true" id="7319640c-29c6-4f50-af9f-e59e0f76dbd3" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.retrosoda.github.io.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.retrosoda.github.io.dir/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/downloads/downloads.css" beforeDir="false" afterPath="$PROJECT_DIR$/downloads/downloads.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/downloads/downloads.html" beforeDir="false" afterPath="$PROJECT_DIR$/downloads/downloads.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +52,8 @@
       <option name="presentableId" value="Default" />
       <updated>1634757455803</updated>
       <workItem from="1634757459155" duration="1037000" />
-      <workItem from="1634763169458" duration="1785000" />
+      <workItem from="1634763169458" duration="2324000" />
+      <workItem from="1634769789088" duration="942000" />
     </task>
     <task id="LOCAL-00001" summary="yes">
       <created>1634758399983</created>
@@ -67,7 +69,14 @@
       <option name="project" value="LOCAL" />
       <updated>1634763700295</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="e">
+      <created>1634765144944</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1634765144944</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -104,6 +113,7 @@
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="yes" />
     <MESSAGE value="added better newsletter page" />
-    <option name="LAST_COMMIT_MESSAGE" value="added better newsletter page" />
+    <MESSAGE value="e" />
+    <option name="LAST_COMMIT_MESSAGE" value="e" />
   </component>
 </project>
