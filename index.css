@@ -10,6 +10,10 @@ h1{
 a, A:visited, a:active {color: #14AE21;}
 a:hover {color: #1CB23F;}
 
+a{
+    font-family: "Avenir Next Condensed"
+}
+
 
 p{
     color: rgb(255, 94, 0);
@@ -22,6 +26,13 @@ h4{
     font-family: "monaco", monospace;
     text-align: center;
 }
+
+h2{
+    color: aquamarine;
+    font-family: "American Typewriter";
+}
+
+
 
 .center {
     display: block;
