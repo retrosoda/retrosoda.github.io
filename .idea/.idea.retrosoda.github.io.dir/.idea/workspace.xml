@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7319640c-29c6-4f50-af9f-e59e0f76dbd3" name="Changes" comment="" />
+    <list default="true" id="7319640c-29c6-4f50-af9f-e59e0f76dbd3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/newsletter/102021/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/newsletter/102021/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.retrosoda.github.io.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.retrosoda.github.io.dir/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/newsletter/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/newsletter/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/newsletter/sneakypeaky1.png" beforeDir="false" afterPath="$PROJECT_DIR$/newsletter/102021/sneakypeaky1.png" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,6 +17,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="CSS File" />
         <option value="HTML File" />
       </list>
     </option>
@@ -35,6 +43,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -46,6 +55,7 @@
       <option name="presentableId" value="Default" />
       <updated>1634757455803</updated>
       <workItem from="1634757459155" duration="1037000" />
+      <workItem from="1634763169458" duration="520000" />
     </task>
     <task id="LOCAL-00001" summary="yes">
       <created>1634758399983</created>
@@ -61,7 +71,7 @@
     <option name="version" value="3" />
   </component>
   <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
-  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -85,6 +95,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
