@@ -10,11 +10,9 @@ h1{
 a, A:visited, a:active {color: #14AE21;}
 a:hover {color: #1CB23F;}
 
-a{
-    font-family: "Avenir Next Condensed"
+a {
+    font-family: "Avenir Next Condensed";
 }
-
-
 p{
     color: rgb(255, 94, 0);
     font-family: "monaco", monospace;
