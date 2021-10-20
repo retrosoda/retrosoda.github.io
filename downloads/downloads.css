@@ -3,12 +3,23 @@ body{
 }
 
 h1{
-    color: orangered;
-    font-family: "copperlate";
+    color: #ff7c7c;
+    font-family: "copperlate", fantasy;
     text-align: center;
 }
 
 p{
- color:orangered;
- font-family: "copperlate";
+ color: #ffab8c;
+ font-family: Athelas;
 }
+
+h2{
+    color: coral;
+    font-family: "American Typewriter";
+}
+a{
+    color: aquamarine;
+    font-family: Athelas
+}
+
+/** pls no orange an black
