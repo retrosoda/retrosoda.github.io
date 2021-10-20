@@ -7,6 +7,9 @@ h1{
     font-family: "copperlate", fantasy;
     text-align: center;
 }
+a, A:visited, a:active {color: #14AE21;}
+a:hover {color: #1CB23F;}
+
 
 p{
     color: rgb(255, 94, 0);
@@ -15,7 +18,7 @@ p{
 }
 
 h4{
-    color: red;
+    color: #ff7474;
     font-family: "monaco", monospace;
     text-align: center;
 }
