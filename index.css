@@ -1,15 +1,22 @@
 body{
-  background-color: rgb(32, 32, 32);
+    background-color: rgb(32, 32, 32);
 }
 
 h1{
-   color: orangered; 
-   font-family: "copperlate", fantasy;
-   text-align: center;
+    color: orangered;
+    font-family: "copperlate", fantasy;
+    text-align: center;
 }
 
 p{
-  color: rgb(255, 94, 0);
-  font-family: "monaco", monospace;
-  text-align: center;
+    color: rgb(255, 94, 0);
+    font-family: "monaco", monospace;
+    text-align: center;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
 }
