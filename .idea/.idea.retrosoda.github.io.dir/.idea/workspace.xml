@@ -1,9 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7319640c-29c6-4f50-af9f-e59e0f76dbd3" name="Changes" comment="what the fuck did you fuck up">
+    <list default="true" id="7319640c-29c6-4f50-af9f-e59e0f76dbd3" name="Changes" comment="what">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.retrosoda.github.io.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.retrosoda.github.io.dir/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/credits/tool used/credits.css" beforeDir="false" afterPath="$PROJECT_DIR$/other/credits/tools-used/credits.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/credits/tool used/credits.html" beforeDir="false" afterPath="$PROJECT_DIR$/other/credits/tools-used/credits.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/downloads/downloads.css" beforeDir="false" afterPath="$PROJECT_DIR$/other/downloads/downloads.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/downloads/downloads.html" beforeDir="false" afterPath="$PROJECT_DIR$/other/downloads/downloads.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/newsletter/102021/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/other/newsletter/102021/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/newsletter/102021/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/other/newsletter/102021/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/newsletter/102021/sneakypeaky1.png" beforeDir="false" afterPath="$PROJECT_DIR$/other/newsletter/102021/sneakypeaky1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/newsletter/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/other/newsletter/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/newsletter/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/other/newsletter/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +61,7 @@
       <updated>1634757455803</updated>
       <workItem from="1634757459155" duration="1037000" />
       <workItem from="1634763169458" duration="2324000" />
-      <workItem from="1634769789088" duration="3439000" />
+      <workItem from="1634769789088" duration="3995000" />
     </task>
     <task id="LOCAL-00001" summary="yes">
       <created>1634758399983</created>
@@ -110,7 +119,14 @@
       <option name="project" value="LOCAL" />
       <updated>1634773637746</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="what">
+      <created>1634775414497</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1634775414497</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -152,6 +168,7 @@
     <MESSAGE value="you linked downloads/index.html in index.html." />
     <MESSAGE value="i forgot to commit font for h2 in main." />
     <MESSAGE value="what the fuck did you fuck up" />
-    <option name="LAST_COMMIT_MESSAGE" value="what the fuck did you fuck up" />
+    <MESSAGE value="what" />
+    <option name="LAST_COMMIT_MESSAGE" value="what" />
   </component>
 </project>
