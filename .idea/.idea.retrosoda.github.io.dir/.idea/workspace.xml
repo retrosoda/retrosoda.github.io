@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7319640c-29c6-4f50-af9f-e59e0f76dbd3" name="Changes" comment="i forgot to commit font for h2 in main.">
+    <list default="true" id="7319640c-29c6-4f50-af9f-e59e0f76dbd3" name="Changes" comment="what the fuck did you fuck up">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.retrosoda.github.io.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.retrosoda.github.io.dir/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/downloads/downloads.css" beforeDir="false" afterPath="$PROJECT_DIR$/downloads/downloads.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/downloads/downloads.html" beforeDir="false" afterPath="$PROJECT_DIR$/downloads/downloads.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +52,7 @@
       <updated>1634757455803</updated>
       <workItem from="1634757459155" duration="1037000" />
       <workItem from="1634763169458" duration="2324000" />
-      <workItem from="1634769789088" duration="2555000" />
+      <workItem from="1634769789088" duration="3439000" />
     </task>
     <task id="LOCAL-00001" summary="yes">
       <created>1634758399983</created>
@@ -104,7 +103,14 @@
       <option name="project" value="LOCAL" />
       <updated>1634771645612</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="what the fuck did you fuck up">
+      <created>1634773637746</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1634773637746</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -145,6 +151,7 @@
     <MESSAGE value="e" />
     <MESSAGE value="you linked downloads/index.html in index.html." />
     <MESSAGE value="i forgot to commit font for h2 in main." />
-    <option name="LAST_COMMIT_MESSAGE" value="i forgot to commit font for h2 in main." />
+    <MESSAGE value="what the fuck did you fuck up" />
+    <option name="LAST_COMMIT_MESSAGE" value="what the fuck did you fuck up" />
   </component>
 </project>
