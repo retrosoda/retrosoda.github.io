@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7319640c-29c6-4f50-af9f-e59e0f76dbd3" name="Changes" comment="updated 102021">
+    <list default="true" id="7319640c-29c6-4f50-af9f-e59e0f76dbd3" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.retrosoda.github.io.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.retrosoda.github.io.dir/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +61,8 @@
       <updated>1634757455803</updated>
       <workItem from="1634757459155" duration="1037000" />
       <workItem from="1634763169458" duration="2324000" />
-      <workItem from="1634769789088" duration="7345000" />
+      <workItem from="1634769789088" duration="7754000" />
+      <workItem from="1634854787561" duration="519000" />
     </task>
     <task id="LOCAL-00001" summary="yes">
       <created>1634758399983</created>
@@ -187,7 +190,21 @@
       <option name="project" value="LOCAL" />
       <updated>1634781353012</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="e">
+      <created>1634844182393</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1634844182393</updated>
+    </task>
+    <task id="LOCAL-00020" summary="concern">
+      <created>1634844335173</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1634844335173</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -234,9 +251,10 @@
     <MESSAGE value="i fix" />
     <MESSAGE value="moved image.png from other to main" />
     <MESSAGE value="404 page" />
-    <MESSAGE value="e" />
     <MESSAGE value="lead index.html to the directory of images/image.png to fix image." />
     <MESSAGE value="updated 102021" />
-    <option name="LAST_COMMIT_MESSAGE" value="updated 102021" />
+    <MESSAGE value="e" />
+    <MESSAGE value="concern" />
+    <option name="LAST_COMMIT_MESSAGE" value="concern" />
   </component>
 </project>

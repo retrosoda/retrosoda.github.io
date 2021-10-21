@@ -68,10 +68,10 @@ a:active{
 }
 
 nav{
-    background-color: black;
+    background-color: rgb(32, 32, 32);
     height: 50px;
     font-family: monospace;
-    color: black;
+    color: rgb(32, 32, 32);
 }
 
 nav ul{
@@ -84,7 +84,7 @@ nav ul li{
     list-style-type: none;
     width: 150px;
     float: left;
-    border-right: 1px solid black;
+    border-right: 1px solid rgb(32, 32, 32);
     text-align: center;
 
 }
@@ -97,5 +97,5 @@ li a{
 }
 
 li a:hover{
-    background-color:black;
+    background-color: rgb(26, 22, 22);
 }
