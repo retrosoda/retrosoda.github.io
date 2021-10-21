@@ -1,14 +1,16 @@
 body{
-    color: black;
+    background-color: black;
 }
 
 h1{
     color: orangered;
     font-family:  "copperlate";
     size: 17px;
+    text-align: center;
 }
 
 li{
     color: orangered;
     font-family: "copperlate";
+    text-align: start;
 }
