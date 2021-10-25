@@ -1,11 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7319640c-29c6-4f50-af9f-e59e0f76dbd3" name="Changes" comment="">
+    <list default="true" id="7319640c-29c6-4f50-af9f-e59e0f76dbd3" name="Changes" comment="lol dude you forgot to link the folder.">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.retrosoda.github.io.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.retrosoda.github.io.dir/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/other/newsletter/102121/index.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/other/newsletter/102121/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/other/newsletter/102521.html" beforeDir="false" afterPath="$PROJECT_DIR$/other/newsletter/102521.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/other/newsletter/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/other/newsletter/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -16,8 +13,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="CSS File" />
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -69,7 +66,7 @@
       <workItem from="1634769789088" duration="7754000" />
       <workItem from="1634854787561" duration="1004000" />
       <workItem from="1635095676666" duration="1000" />
-      <workItem from="1635191329543" duration="123000" />
+      <workItem from="1635191329543" duration="453000" />
     </task>
     <task id="LOCAL-00001" summary="yes">
       <created>1634758399983</created>
@@ -218,7 +215,14 @@
       <option name="project" value="LOCAL" />
       <updated>1634855343135</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="lol dude you forgot to link the folder.">
+      <created>1635191529388</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1635191529388</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -270,6 +274,7 @@
     <MESSAGE value="e" />
     <MESSAGE value="concern" />
     <MESSAGE value="fixed" />
-    <option name="LAST_COMMIT_MESSAGE" value="fixed" />
+    <MESSAGE value="lol dude you forgot to link the folder." />
+    <option name="LAST_COMMIT_MESSAGE" value="lol dude you forgot to link the folder." />
   </component>
 </project>
