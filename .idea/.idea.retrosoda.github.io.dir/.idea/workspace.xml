@@ -3,8 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="7319640c-29c6-4f50-af9f-e59e0f76dbd3" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.retrosoda.github.io.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.retrosoda.github.io.dir/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/other/newsletter/102121/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/other/newsletter/102121/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/other/newsletter/102521.html" beforeDir="false" afterPath="$PROJECT_DIR$/other/newsletter/102521.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/other/newsletter/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/other/newsletter/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,6 +37,9 @@
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
   </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="ardy6edl" />
+  </component>
   <component name="ProjectId" id="1zmdxvopqbZB7OWqbE17YIF5jzO" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -62,7 +67,9 @@
       <workItem from="1634757459155" duration="1037000" />
       <workItem from="1634763169458" duration="2324000" />
       <workItem from="1634769789088" duration="7754000" />
-      <workItem from="1634854787561" duration="519000" />
+      <workItem from="1634854787561" duration="1004000" />
+      <workItem from="1635095676666" duration="1000" />
+      <workItem from="1635191329543" duration="123000" />
     </task>
     <task id="LOCAL-00001" summary="yes">
       <created>1634758399983</created>
@@ -204,7 +211,14 @@
       <option name="project" value="LOCAL" />
       <updated>1634844335173</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="fixed">
+      <created>1634855343135</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1634855343135</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -255,6 +269,7 @@
     <MESSAGE value="updated 102021" />
     <MESSAGE value="e" />
     <MESSAGE value="concern" />
-    <option name="LAST_COMMIT_MESSAGE" value="concern" />
+    <MESSAGE value="fixed" />
+    <option name="LAST_COMMIT_MESSAGE" value="fixed" />
   </component>
 </project>
